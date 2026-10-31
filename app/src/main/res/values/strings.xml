@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uber 畫面讀取</string>
+    <string name="service_label">Uber 畫面讀取服務</string>
+    <string name="service_description">只讀取 Uber / Uber Driver / Uber Eats 畫面上的文字與通知，存在本機，方便查看訂單內容。不會讀取其他 App，也不會上傳任何資料。</string>
+</resources>
